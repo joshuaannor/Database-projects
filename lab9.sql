@@ -1,0 +1,1 @@
+DELETE FROM university.advisors WHERE email = 's.z@email.com';
